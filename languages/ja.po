@@ -1,0 +1,103 @@
+# Copyright (C) 2016 Bulk Term Editor
+# This file is distributed under the same license as the Bulk Term Editor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bulk Term Editor 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bulk-term-"
+"editor\n"
+"POT-Creation-Date: 2016-02-26 01:37+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-02-26 01:37+0900\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: bulk-term-editor.php:119
+msgid "Select a taxonomy."
+msgstr "タクソノミーを選択してください。"
+
+#: bulk-term-editor.php:124
+msgid "Enter terms."
+msgstr "タームを入力してください。"
+
+#: bulk-term-editor.php:139
+msgid "is a duplicate."
+msgstr "は重複してます。"
+
+#: bulk-term-editor.php:151
+msgid "Format is not correct."
+msgstr "フォーマットが正しくありません。"
+
+#: bulk-term-editor.php:170
+msgid "Failed to delete."
+msgstr "削除に失敗しました。"
+
+#: bulk-term-editor.php:213
+msgid "Failed to register."
+msgstr "登録に失敗しました。"
+
+#: bulk-term-editor.php:230
+msgid "Updated."
+msgstr "更新しました。"
+
+#: bulk-term-editor.php:247
+msgid ""
+"You can register or edit terms in bulk. Copy cells in the spreadsheet, all "
+"that remains is to paste to this plugin."
+msgstr ""
+"タームを一括で登録・編集することができます。使い方は至って簡単。スプレッド"
+"シートのセルをコピーして貼り付けるだけ。"
+
+#: bulk-term-editor.php:252
+msgid "Taxonomy"
+msgstr "タクソノミー"
+
+#: bulk-term-editor.php:277
+msgid "Terms"
+msgstr "ターム"
+
+#: bulk-term-editor.php:280
+msgid "Format is ..."
+msgstr "形式は・・・"
+
+#: bulk-term-editor.php:282
+msgid "Entering a '*' in beginning of line will delete."
+msgstr "行頭に「*」を付けると削除します。"
+
+#: bulk-term-editor.php:283
+msgid "Entering a '>New slug' after the term slug will change the term slug."
+msgstr ""
+"スラッグ名の後に「>新しいスラッグ名」を付けるとスラッグ名を変更します。"
+
+#: bulk-term-editor.php:284
+msgid "When the term slug is a blank or new, add."
+msgstr "スラッグ名が空もしくは新しい場合は追加します。"
+
+#: bulk-term-editor.php:290
+msgid "Replace characters"
+msgstr "文字を置き換える"
+
+#: bulk-term-editor.php:292
+msgid "Regular Expression"
+msgstr "正規表現"
+
+#: bulk-term-editor.php:294
+msgid "Replacement characters"
+msgstr "置換文字"
+
+#: bulk-term-editor.php:296
+msgid "Replace"
+msgstr "置き換える"
+
+#: bulk-term-editor.php:300
+msgid "Edit"
+msgstr "編集する"
+
+#: bulk-term-editor.php:301
+msgid "Revert to the original."
+msgstr "もとに戻す"
