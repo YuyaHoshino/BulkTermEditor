@@ -3,7 +3,7 @@
 Plugin Name: Bulk Term Editor
 Plugin URI: https://www.560designs.com/development/bulk-term-editor.html
 Description: You can register or edit terms in bulk. Copy cells in the spreadsheet, all that remains is to paste to this plugin.
-Version: 1.1.2
+Version: 1.1.3
 Author: Yuya Hoshino
 Author URI: https://www.560designs.com/
 Text Domain: bulk-term-editor
